@@ -1,0 +1,86 @@
+[
+  {
+    "cover": "https://i.ibb.co/sR3RrHT/stir-fry-chicken-sweet-peppers-green-beans.jpg",
+    "id": "001",
+    "title": "Chicken Stir Fry",
+    "description": "A flavorful and healthy stir fry dish with tender chicken and fresh vegetables.",
+    "ingredients": [
+      "550 g chicken",
+      "120 ml soy sauce",
+      "200 g basil leaves",
+      "400 g mushroom"
+    ],
+    "preparing_time": "30 min",
+    "calories": "320 calories"
+  },
+  {
+    "cover": "https://i.ibb.co/p3znJk7/italian-pasta-shells-with-mushrooms-zucchini-tomato-sauce.jpg",
+    "id": "002",
+    "title": "Pasta Arrabbiata",
+    "description": "A spicy Italian pasta dish with tomatoes, garlic, and red chili flakes.",
+    "ingredients": [
+      "400 g pasta",
+      "500 g tomatoes",
+      "4 cloves garlic",
+      "2 tsp red chili flakes"
+    ],
+    "preparing_time": "25 min",
+    "calories": "380 calories"
+  },
+  {
+    "cover": "https://i.ibb.co/pQv65x1/meat-stew-plate-with-potatoes-pepper-herbs-onion-pomegranate.jpg",
+    "id": "003",
+    "title": "Vegetable Curry",
+    "description": "A fragrant and comforting curry filled with assorted vegetables.",
+    "ingredients": [
+      "300 g mixed vegetables",
+      "250 ml coconut milk",
+      "2 tbsp curry powder",
+      "1 onion"
+    ],
+    "preparing_time": "40 min",
+    "calories": "280 calories"
+  },
+  {
+    "cover": "https://i.ibb.co/6mY8grB/fried-salmon-with-vegetables-table.jpg",
+    "id": "004",
+    "title": "Grilled Salmon",
+    "description": "Juicy and flavorful grilled salmon seasoned with herbs and lemon.",
+    "ingredients": [
+      "4 salmon fillets",
+      "2 tbsp olive oil",
+      "1 lemon",
+      "2 tsp dried herbs"
+    ],
+    "preparing_time": "20 min",
+    "calories": "300 calories"
+  },
+  {
+    "cover": "https://i.ibb.co/S6XZBkr/preparing-strawberry-banana-smoothie-jar-wooden-table-blue-background.jpg",
+    "id": "005",
+    "title": "Mixed Fruit Smoothie",
+    "description": "A refreshing and nutritious smoothie packed with a variety of fruits.",
+    "ingredients": [
+      "1 banana",
+      "1 cup mixed berries",
+      "1/2 cup yogurt",
+      "1/4 cup orange juice"
+    ],
+    "preparing_time": "10 min",
+    "calories": "180 calories"
+  },
+  {
+    "cover": "https://i.ibb.co/0VFTx9r/top-view-tasty-hamburger.jpg",
+    "id": "006",
+    "title": "Vegan Burger",
+    "description": "A tasty and satisfying plant-based burger made with wholesome ingredients.",
+    "ingredients": [
+      "1 can chickpeas",
+      "1/2 cup breadcrumbs",
+      "1 tsp paprika",
+      "4 burger buns"
+    ],
+    "preparing_time": "35 min",
+    "calories": "250 calories"
+  }
+]

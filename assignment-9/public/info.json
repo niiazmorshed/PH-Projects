@@ -1,0 +1,95 @@
+[
+  {
+    "id": 1,
+    "estate_title": "Luxury Villa with Ocean View",
+    "segment_name": "Luxury",
+    "ratings": 4.7,
+    "description": "Experience luxury living in this stunning villa overlooking the ocean. Perfect for a serene getaway.",
+    "price": "$1000",
+    "status": "rent",
+    "area": "5000 sq ft",
+    "location": "Malibu, California",
+    "facilities": [
+      "swimming pool",
+      "ocean view terrace",
+      "gourmet kitchen",
+      "home theater"
+    ],
+    "image": "https://i.ibb.co/cCQcqMf/maxim-hopman-erl3g-MLz-Wt0-unsplash.jpg",
+    "View_Property_button": "View Property"
+  },
+  {
+    "id": 2,
+    "estate_title": "Amazing Cozy Cabin in the Woods",
+    "segment_name": "Budget",
+    "ratings": 5,
+    "description": "Escape to nature in this charming cabin nestled in the woods. Ideal for a peaceful retreat.",
+    "price": "$150",
+    "status": "rent",
+    "area": "800 sq ft",
+    "location": "Aspen, Colorado",
+    "facilities": ["fireplace", "deck", "hiking trails nearby,","pool"],
+    "image": "https://i.ibb.co/4SxS2Q5/cara-fuller-Be-HRk-ALw-XIw-unsplash.jpg",
+    "View_Property_button": "View Property"
+  },
+  {
+    "id": 3,
+    "estate_title": "Modern Loft in Downtown",
+    "segment_name": "Urban",
+    "ratings": 4.9,
+    "description": "Live in style in this sleek loft located in the heart of the city. Perfect for urban explorers.",
+    "price": "$200",
+    "status": "rent",
+    "area": "1200 sq ft",
+    "location": "New York City, New York",
+    "facilities": ["rooftop terrace", "gym", "city skyline view"],
+    "image": "https://i.ibb.co/D7hTmBn/vadim-babenko-e9-YAN77-O9-Pc-unsplash.jpg",
+    "View_Property_button": "View Property"
+  },
+  {
+    "id": 4,
+    "estate_title": "Seaside Cottage with Private Beach",
+    "segment_name": "Luxury",
+    "description": "Indulge in luxury living in this charming cottage with a private beach. Perfect for a romantic getaway.",
+    "price": "$1500",
+    "status": "rent",
+    "ratings": 4.3,
+    "area": "3000 sq ft",
+    "location": "Maui, Hawaii",
+    "facilities": [
+      "private beach access",
+      "infinity pool",
+      "outdoor dining area"
+    ],
+    "image": "https://i.ibb.co/6Zy2d9v/wide-shot-brown-house-sandy-seashore-by-sea-surrounded-with-rocks-trees.jpg",
+    "View_Property_button": "View Property"
+  },
+  {
+    "id": 5,
+    "estate_title": "Mountain Chalet with Panoramic Views",
+    "segment_name": "Luxury",
+    "description": "Experience luxury living in this elegant chalet with breathtaking mountain views. Ideal for nature lovers.",
+    "price": "$1200",
+    "status": "rent",
+    "area": "4000 sq ft",
+    "ratings": 4.5,
+    "location": "Banff, Canada",
+    "facilities": ["hot tub", "ski-in/ski-out access", "sauna"],
+    "image": "https://i.ibb.co/JyhRm0T/beautiful-view-cabin-mountains-surrounded-by-trees-greenery.jpg",
+    "View_Property_button": "View Property"
+  },
+  {
+    "id": 6,
+    "estate_title": "Rustic Farmhouse Retreat",
+    "segment_name": "Budget",
+    "ratings": 4.8,
+    "description": "Escape the hustle and bustle in this charming farmhouse surrounded by lush greenery. Perfect for a family vacation.",
+    "price": "$250",
+    "status": "rent",
+    "area": "2500 sq ft",
+    "location": "Provence, France",
+    "facilities": ["garden", "fire pit", "farm-to-table dining"],
+    "image": "https://i.ibb.co/bs9nNT5/maurice-dt-ht-Uh-W-qt8-unsplash.jpg",
+    "View_Property_button": "View Property"
+  }
+]

@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100..900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.banner1 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://i.ibb.co/VqfF07x/Screenshot-2024-04-16-010829.png");
+  background-size: cover;
+  background-position: center;
+  max-width: 1320px;
+  min-height: 550px;
+  border-radius: 24px;
+}
+.banner2 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://i.ibb.co/VvH03dB/marten-bjork-n-IKQDCyr-G0-unsplash.jpg");
+  background-size: cover;
+  background-position: center;
+  max-width: 1320px;
+  min-height: 550px;
+  border-radius: 24px;
+}
+.banner3 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://i.ibb.co/hcCGL3h/devon-owens-R9-M0v-X6-Erv4-unsplash.jpg");
+  background-size: cover;
+  background-position: center;
+  max-width: 1320px;
+  min-height: 550px;
+  border-radius: 24px;
+}
+
+.footer {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://i.ibb.co/7VywSsg/daniel-gregoire-s-Nj-W5fz7a-Fk-unsplash.jpg");
+  background-size: cover;
+  background-position: center;
+  min-height: 350px;
+}
+
